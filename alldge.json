@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/richgt1/hnsc/blob/master/sig%20gene%20lists%20DEB%200.05%20bin%20a.csv",
+	"file": "https://raw.githubusercontent.com/richgt1/hnsc/master/sig%20gene%20lists%20DEB%200.05%20bin%20a.csv",
 	"name": "HNSCC DGE",
 	"header": 0,
 	"separator": ",",

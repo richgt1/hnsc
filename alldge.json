@@ -1,0 +1,13 @@
+{
+	"file": "https://www.dropbox.com/s/dbleb1rcix1om9j/sig%20gene%20lists%20DEB%200.05%20bin.csv?dl=0",
+	"name": "HNSCC DGE",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Gene" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 20 }
+	]
+}
